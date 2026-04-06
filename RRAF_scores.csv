@@ -1,0 +1,7 @@
+dataset_id,name,D1_metadata,D2_data_quality,D3_transparency,D4_segmentation,D5_generalisability,RRAF_composite,risk_label,n_images,imaging_modality
+IDR0013-sim,Arabidopsis chromatin (confocal),0.75,0.51,0.0,0.0,0.38,0.328,High risk,847,confocal
+IDR0052-sim,Arabidopsis nuclear structure,1.0,0.712,0.5,0.62,0.62,0.69,Moderate risk,1203,confocal
+IDR0071-sim,Plant nuclei widefield,0.25,0.218,0.0,0.0,0.06,0.106,High risk,412,widefield
+IDR0083-sim,Chromocenter super-resolution,1.0,0.834,1.0,0.0,0.72,0.711,Moderate risk,334,STED
+BBBC039-sim,Nuclei segmentation benchmark,1.0,0.799,1.0,0.8,0.8,0.88,Low risk,200,fluorescence
+IDR0099-sim,Root meristem live imaging,0.5,0.271,0.0,0.0,0.24,0.202,High risk,628,spinning-disk
